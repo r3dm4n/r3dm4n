@@ -1,3 +1,3 @@
 - 👋 Hi, we're https://spaceapps.ro
-- 💞️ We’re looking to collaborate on React based apps
+- 💞️ We’re looking to collaborate on ReactJS, React Native & NestJS based apps
 - 📫 Reach us contact@spaceapps.ro
